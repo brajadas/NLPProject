@@ -8,8 +8,12 @@ Testing Output:
 2. Problem 2:POSTaggingnlp_data.txt.xml
 3. Problem 3: 
   POSTaggingd01.txt
-  POSTaggingd01.txt
-  POSTaggingd01.txt
-  POSTaggingd01.txt
-  POSTaggingd01.txt
-  POSTaggingd01.txtPOSTaggingd01.txt
+  POSTaggingd02.txt
+  POSTaggingd03.txt
+  POSTaggingd04.txt
+  POSTaggingd05.txt
+  POSTaggingd06.txt
+  POSTaggingd07.txt
+  POSTaggingd08.txt
+  POSTaggingd09.txt
+  POSTaggingd10.txt
